@@ -10,7 +10,7 @@
         "lat": 38.727881642324164,
         "lng": -9.140900099907554
       },
-      "id": 73930385
+      "id": "73930385"
     },
     {
       "cityName": "Madrid",
@@ -22,7 +22,7 @@
         "lat": 40.46635901755316,
         "lng": -3.7133789062500004
       },
-      "id": 17806751
+      "id": "17806751"
     },
     {
       "cityName": "Berlin",
@@ -34,7 +34,103 @@
         "lat": 52.53586782505711,
         "lng": 13.376933665713324
       },
-      "id": 98443197
+      "id": "98443197"
+    },
+    {
+      "id": "1565",
+      "cityName": "Sant Fruitos de Bages",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-12-28T08:15:33.876Z",
+      "notes": "",
+      "position": {
+        "lat": "41.74672584176937",
+        "lng": "1.8951416015625002"
+      }
+    },
+    {
+      "id": "8ac5",
+      "cityName": "Sant Fruitos de Bages",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-12-28T08:15:33.876Z",
+      "notes": "",
+      "position": {
+        "lat": "41.74672584176937",
+        "lng": "1.8951416015625002"
+      }
+    },
+    {
+      "id": "171f",
+      "cityName": "Sant Fruitos de Bages",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-12-28T08:15:33.876Z",
+      "notes": "",
+      "position": {
+        "lat": "41.74672584176937",
+        "lng": "1.8951416015625002"
+      }
+    },
+    {
+      "id": "ea91",
+      "cityName": "Ameur",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2025-12-28T08:19:04.241Z",
+      "notes": "",
+      "position": {
+        "lat": "34.13454168193739",
+        "lng": "-6.685180664062501"
+      }
+    },
+    {
+      "id": "b737",
+      "cityName": "Chateauroux",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-12-28T08:22:54.903Z",
+      "notes": "gdghd",
+      "position": {
+        "lat": "46.803114624434066",
+        "lng": "1.6953277587890627"
+      }
+    },
+    {
+      "id": "2e0f",
+      "cityName": "Champigny-sur-Marne",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-12-28T08:24:07.213Z",
+      "notes": "jgjhg",
+      "position": {
+        "lat": "48.821332549646655",
+        "lng": "2.5048828125000004"
+      }
+    },
+    {
+      "id": "9ed7",
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2025-12-28T08:27:36.351Z",
+      "notes": "ttdtd",
+      "position": {
+        "lat": "51.467696956223385",
+        "lng": "-0.10986328125000001"
+      }
+    },
+    {
+      "id": "3d26",
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2025-12-28T08:29:11.663Z",
+      "notes": "ghchgc",
+      "position": {
+        "lat": "51.467696956223385",
+        "lng": "-0.10986328125000001"
+      }
     }
   ]
 }
