@@ -13,28 +13,52 @@
       "id": "73930385"
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": "17806751"
-    },
-    {
+      "id": "6502",
       "cityName": "Berlin",
       "country": "Germany",
       "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "date": "2025-12-28T12:56:51.513Z",
+      "notes": "wow",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": "98443197"
+        "lat": "52.45600939264076",
+        "lng": "13.425292968750002"
+      }
+    },
+    {
+      "id": "bdb6",
+      "cityName": "Agafay",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2025-12-28T13:05:39.953Z",
+      "notes": "hfhfh",
+      "position": {
+        "lat": "31.510252387484588",
+        "lng": "-8.261718750000002"
+      }
+    },
+    {
+      "id": "e753",
+      "cityName": "Arouca",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2025-12-28T15:55:57.264Z",
+      "notes": "wow",
+      "position": {
+        "lat": "40.97575093157537",
+        "lng": "-8.410034179687502"
+      }
+    },
+    {
+      "id": "4d2c",
+      "cityName": "Bucharest",
+      "country": "Romania",
+      "emoji": "🇷🇴",
+      "date": "2025-12-28T15:57:11.435Z",
+      "notes": "ghdgtd",
+      "position": {
+        "lat": "44.43083793524687",
+        "lng": "26.10763549804688"
+      }
     }
   ]
 }
